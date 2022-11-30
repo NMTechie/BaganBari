@@ -1,9 +1,9 @@
-1. EdTech platform 
+## EdTech platform 
 
-Feature:
+Epics:
  - Social Login (github/linkedin)
+ - Search (Path/course/topic/certification)
  - Profile
- - Search (Path/topic/certification)
  - Subscription
  - Enrollement 
  - Notifications
