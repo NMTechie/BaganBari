@@ -4,7 +4,9 @@ Epics:
  - Social Login (github/linkedin)
  - Search (Catalog - Path/course/topic/certification)
  - Profile
- - Subscription
+ - Payment
+ - Invoice
+ - License
  - Enrollement 
  - Notifications
  - Goal
