@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace EdTech.Course.Domain.ValueObjects
 {
     /// <summary>
-    /// This will repeset any text based learning
+    /// This will repeset any text based learning (e.g. books,published papaer, journals etc.)
     /// </summary>
     public class Article
     {

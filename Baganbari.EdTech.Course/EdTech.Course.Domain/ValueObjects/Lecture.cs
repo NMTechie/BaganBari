@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace EdTech.Course.Domain.ValueObjects
 {
+    /// <summary>
+    /// This will repeset any video based learning 
+    /// </summary>
     internal class Lecture
     {
         public Guid Id { get; set; }

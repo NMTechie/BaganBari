@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace EdTech.Course.Domain.Entities
 {
-    internal class PractiseTest
+    public class PractiseTest
     {
+        public Guid TestId { get; set; }
+        public string Name { get; set; }
+        public List<Question> Questions { get; set; }
     }
 }

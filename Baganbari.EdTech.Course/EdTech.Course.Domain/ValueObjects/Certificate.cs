@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 namespace EdTech.Course.Domain.Entities
 {
     /// <summary>
-    /// This is not required as will be covered under PractiseTest
+    /// This should be here ......(Need to define it more)
     /// </summary>
-    internal class Excersice
+    public class Certificate
     {
+        public Guid Id { get; set; }
+        public string Name { get; set; }
     }
 }

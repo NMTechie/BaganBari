@@ -12,5 +12,6 @@ namespace EdTech.Course.Domain.Entities
         public Guid Id { get; set; }
         public string Title { get; set; }
         public List<Article> Articles { get; set; }
+        public List<PractiseTest> PractiseTests { get; set; }
     }
 }
