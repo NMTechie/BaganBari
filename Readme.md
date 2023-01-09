@@ -22,6 +22,10 @@ Epics:
  3.  Details of Training - Curriculam , Total time , Cost, Review feedback, description, *Author credibility* , key outcome
  
  Bounded Context - User Management
+ User Journey :
+ 1. Sign up -> Authentication -> create profile with basic info (optional)-> Role assignment (Automatic) -> General User Creation Complete.
+	1.1 Sign - in -> Authentication -> fetch profile -> General User Login Complete
+ 
  
  Bounded Context - Trainer Management
  a. Trainer aval calendar 
