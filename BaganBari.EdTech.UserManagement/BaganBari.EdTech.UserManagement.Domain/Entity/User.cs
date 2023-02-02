@@ -9,7 +9,5 @@ namespace BaganBari.EdTech.UserManagement.Domain.Entity
         public string EmailId { get; set; }
         public List<Role> Roles { get; set; }
 
-
-
     }
 }
