@@ -21,18 +21,26 @@ Epics:
  2.  Search of Training Result - Total time , Cost, *Review feedback*
  3.  Details of Training - Curriculam , Total time , Cost, Review feedback, description, *Author credibility* , key outcome
  
- Bounded Context - User Management
+ # Bounded Context - User Management
  User Journey :
  1. Sign up -> Authentication -> create profile with basic info (optional)-> Role assignment (Automatic) -> General User Creation Complete.
 	1.1 Sign - in -> Authentication -> fetch profile -> General User Login Complete
  
- 
- Bounded Context - Trainer Management
- a. Trainer aval calendar 
+ User Roles
+ - Individual User
+ - Corporate User
+ - Trainer
+ - Admin
 
- Bounded Context - Search 
+Auth Providers
+ - Google 
  
- Bounded Context - Training (Curriculam , Total time , Cost, description, no of participant ,key outcome assume pre-exisits)
+# Bounded Context - Trainer Management
+ a. Trainer avalability calendar 
+
+# Bounded Context - Search 
+ 
+# Bounded Context - Training (Curriculam , Total time , Cost, description, no of participant ,key outcome assume pre-exisits)
  a. Trainging avl calendar
  b. Quotation (When no of participant is > than pre-defined offering)
  
